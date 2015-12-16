@@ -1,4 +1,6 @@
-# AnyYolk
+# [Archive] AnyYolk
+
+**Note:** *This repository is not under active development.*
 
 AnyYolk is a fun HTML5 game powered by [Parse](https://parse.com). The game uses CSS 3 animations and the highscore is submitted via facebook authentication and stored on Parse. You can check out the live version on the [AnyYolk website](https://anyyolk.com).
 
